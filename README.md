@@ -1,3 +1,2 @@
 # Share_files
-Files to make public
-This folder has various jupyter notebooks i coded to life. :D 
+Models created for predicting discharge TAT, OP footfall, and other jupyter notebooks taken up as side-projects.
